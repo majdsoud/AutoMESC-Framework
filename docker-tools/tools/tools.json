@@ -1,0 +1,42 @@
+[
+  {
+    "name": "smartcheck",
+    "info": "SmartCheck is an extensible static analysis tool for discovering vulnerabilities and other code issues in Ethereum smart contracts written in the Solidity programming language.",
+    "githubLink": "https://github.com/smartdec/smartcheck"
+  },
+  {
+    "name": "Honeybadger",
+    "info": "An analysis tool to detect honeypots in Ethereum smart contracts 🍯. HoneyBadger is based on Oyente. Our paper can be found here.",
+    "githubLink": "https://github.com/christoftorres/HoneyBadger"
+  },
+  {
+    "name": "Maian",
+    "info": "The repository contains Python implementation of Maian -- a tool for automatic detection of buggy Ethereum smart contracts of three different types: prodigal, suicidal and greedy. Maian processes contract's bytecode and tries to build a trace of transactions to find and confirm bugs. The technical aspects of the approach are described in our paper.",
+    "githubLink": "https://github.com/ivicanikolicsg/MAIAN"
+  },
+  {
+    "name": "Mythril",
+    "info": "Mythril is a security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses symbolic execution, SMT solving and taint analysis to detect a variety of security vulnerabilities. It's also used (in combination with other tools and techniques) in the MythX security analysis platform. If you are a smart contract developer, we recommend using MythX tools which are optimized for usability and cover a wider range of security issues.",
+    "githubLink": "https://github.com/ConsenSys/mythril"
+  },
+  {
+    "name": "Osiris",
+    "info": "Osiris is an analysis tool to detect integer bugs in Ethereum smart contracts. Osiris is based on Oyente.",
+    "githubLink": "https://github.com/christoftorres/Osiris"
+  },
+  {
+    "name": "Slither",
+    "info": "Slither is a Solidity static analysis framework written in Python 3. It runs a suite of vulnerability detectors and prints visual information about contract details. Slither enables developers to find vulnerabilities, enhance their code comphrehension, and quickly prototype custom analyses.",
+    "githubLink": "https://github.com/crytic/slither"
+  },
+  {
+    "name": "Solhint",
+    "info": "This is an open source project for linting Solidity code. This project provides both Security and Style Guide validations.",
+    "githubLink": "https://github.com/protofire/solhint"
+  },
+  {
+    "name": "securify",
+    "info": "Securify 2.0 is a security scanner for Ethereum smart contracts supported by the Ethereum Foundation and ChainSecurity. The core research behind Securify was conducted at the Secure, Reliable, and Intelligent Systems Lab at ETH Zurich.",
+    "githubLink": "https://github.com/eth-sri/securify2"
+  }
+]

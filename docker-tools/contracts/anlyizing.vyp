@@ -1,0 +1,5 @@
+ def Start_Analyze_image_check(self):
+        tools= [  "smartcheck","solhint","securify","slither","osiris","mythril","maian","honeybadger" ]
+        #----------------------- get Values ------------------------#
+        isVyber =self.var.get()
+        cur_inp = self.CodeEntry.get("1.0", END)

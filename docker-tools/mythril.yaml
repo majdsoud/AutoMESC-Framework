@@ -1,0 +1,5 @@
+docker_image:
+  default: mythril/myth
+  solc<5: mythril/myth:0.22.43
+cmd:  analyze -a  {contract}
+info: Mythril analyses EVM bytecode using symbolic analysis, taint analysis and control flow checking to detect a variety of security vulnerabilities.
