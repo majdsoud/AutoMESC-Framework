@@ -71,7 +71,7 @@ Towards this end, we propose an automated method for mining and classifying Ethe
  - ### Tools 
  Small Explenation about each tool used in this App with GitGub-Repo
  
- ![](imgs/2.JPG)
+ ![](imgs/2.jpg)
 
  - ### Automation
   you can find it here and also export Your data as CSV format
