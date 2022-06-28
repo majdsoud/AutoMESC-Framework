@@ -1,5 +1,10 @@
-# About AutoVuSolidity 
-- is a tool to continuously mine a comprehensive vulnerable and the corresponding patched smart contract code written in Solidity and Vyper from open source projects on GitHub and from CVE records. Next, AutoVuSolidity automatically cleans and organizes the vulnerabilities and their corresponding fixes at multiple levels of granularity. After that, it automatically scans and analyzes the collected vulnerabilities and their fixes using the available smart contracts analysis tools. In addition, it automatically notifies the tool owners if the tool fails to determine the type of vulnerability or detect it, on top of reporting the vulnerabilities to developers.
+# AutoMESC: Automatic Framework for Mining and Classifying Ethereum Smart Contract Vulnerabilities and Their Fixes
+Majd Soud, Ilham Qasse, Grischa Liebel, Mohammad Hamdaqa
+
+Due to the risks associated with vulnerabilities in smart contracts, their security has gained significant attention in recent years.  
+Towards this end, we propose an automated method for mining and classifying Ethereum smart contract vulnerabilities and corresponding fixes from GitHub and from Common Vulnerabilities and Exposures (CVE) records in the National Vulnerability Database. We implemented the proposed method in a fully automated framework, AutoMESC, that classifies and, using seven of the most well-known smart contract security tools, labels the collected vulnerabilities based on vulnerability types. Furthermore, AutoMESC collects metadata that can be used for smart contract security research, such as vulnerability detection, classification, severity prediction, and automated repair. Furthermore, AutoMESC is designed to collect data continuously and keep the corresponding dataset up-to-date with newly discovered smart contract vulnerabilities and their fixes from GitHub and CVE records. 
+
+
 - For more information,email: majdsoud5@gmail.com 
 
  ## Technology used 
