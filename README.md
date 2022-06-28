@@ -25,7 +25,7 @@
  - [maian](https://github.com/ivicanikolicsg/MAIAN)
  - [honeybadger](https://github.com/christoftorres/HoneyBadger)
 
- # get started
+ # Get started
  - create your own Github Access Token this [article will help you](https://catalyst.zoho.com/help/tutorials/githubbot/generate-access-token.html) 
  - create you Own [NVD API KEY](https://nvd.nist.gov/developers/request-an-api-key) 
  - activate python VE => & {path}/SolidityTool/myenv/Scripts/Activate.ps1
