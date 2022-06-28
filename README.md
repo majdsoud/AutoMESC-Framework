@@ -59,7 +59,7 @@ Towards this end, we propose an automated method for mining and classifying Ethe
  - ### Logs Window 
  Logs Window shows all installation logs for all docker tools, main SQL docker image, and connection to the database from where you can see if any error occurs while the configuration step 
 
- ![](imgs/1.JPG)
+ ![](imgs/1.jpg)
 
 
 - ### Analyze Screen
