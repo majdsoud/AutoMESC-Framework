@@ -78,7 +78,5 @@ Towards this end, we propose an automated method for mining and classifying Ethe
 
   ![](imgs/4.jpg)    ![](imgs/7.png)  
 
-  from here you will start your Automated Operation Of Collecting Github, CVES,and analyze them every 2 Hours, after launching the Background Process you will get a notification telling you that this is a scheduled process. 
-
-![](imgs/4.png)
+  from here you can start your Automated Operation Of Collecting Github, CVES,and analyze them every 2 Hours, after launching the Background Process you will get a notification telling you that this is a scheduled process. 
 
