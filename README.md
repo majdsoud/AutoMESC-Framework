@@ -76,7 +76,7 @@ Towards this end, we propose an automated method for mining and classifying Ethe
  - ### Automation
   you can find it here and also export Your data as CSV format
 
-  ![](imgs/4.jpg)    ![](imgs/7.png)  
+  ![](imgs/4.jpg)  
 
   from here you can start your Automated Operation Of Collecting Github, CVES,and analyze them every 2 Hours, after launching the Background Process you will get a notification telling you that this is a scheduled process. 
 
