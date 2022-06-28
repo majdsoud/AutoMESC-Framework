@@ -1,0 +1,44 @@
+accessToken-github = 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
+apiKey=efa5623f-f23e-4f9d-898c-efe940fb0eb7
+
+https://services.nvd.nist.gov/rest/json/cves/1.0?cpe:MatchString=Solidity
+https://services.nvd.nist.gov/rest/json/cpes/1.0?cpe:MatchString=Solidity+Ethereum
+https://services.nvd.nist.gov/rest/json/cpes/1.0?cpe:MatchString=smart+contract
+
+https://services.nvd.nist.gov/rest/json/cves/1.0?cpe:MatchString=smart+contract
+https://services.nvd.nist.gov/rest/json/cves/1.0?MatchString=smart+contract?startIndex=100
+
+sql image
+sql password :nvddatabase!2022
+image cintainer name:  aqlserver
+poer 1433:1433
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=nvddatabase!2022" --name aqlserver  -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-CU15-ubuntu-20.04
+
+
+commands
+pip3 freeze > requirements.txt
+to install and upgrade pip 
+python -m pip install -U --force pip
+
+to create our sevice we need to use the command line 
+python Auto_runner.py install
+
+to run the service 
+
+pip install pyinstaller
+
+  pyinstaller yourproject.py
+
+  cd dist\yourproject
+
+  yourproject.exe install
+
+
+  build image => docker build . -f Dockerfile.yml -t solidity-tool
+
+docker-compose up -d
+
+DOCKER_BUILDKIT=0  docker build .
+
+
+python -m pip install -U matplotlib
