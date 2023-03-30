@@ -2,8 +2,7 @@
 Majd Soud, Ilham Qasse, Grischa Liebel, Mohammad Hamdaqa
 
 Due to the risks associated with vulnerabilities in smart contracts, their security has gained significant attention in recent years. We present an automated method for mining and classifying Ethereum smart contract vulnerabilities and corresponding fixes from GitHub and from Common Vulnerabilities and Exposures (CVE) records in the National Vulnerability Database that is implemented in a fully automated framework, AutoMESC, that classifies and, using seven of the most well-known smart contract security tools, labels the collected vulnerabilities based on vulnerability types. Furthermore, AutoMESC collects metadata that can be used for smart contract security research, such as vulnerability detection, classification, severity prediction, and automated repair.  
-
-- For more information,email: majdsoud5@gmail.com 
+ 
 
  ## Technology used 
  - Python - tkinter
