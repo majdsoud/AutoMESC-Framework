@@ -21,7 +21,6 @@ Due to the risks associated with vulnerabilities in smart contracts, their secur
  - [Smartcheck](https://github.com/smartdec/smartcheck)
  - [solhint](https://github.com/protofire/solhin)
  - [osiris](https://github.com/christoftorres/Osiris)
- - [securify](https://github.com/eth-sri/securify2)
  - [slither](https://github.com/crytic/slither)
  - [mythril](https://github.com/ConsenSys/mythril)
  - [maian](https://github.com/ivicanikolicsg/MAIAN)
